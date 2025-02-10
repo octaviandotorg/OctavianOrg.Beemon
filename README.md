@@ -30,3 +30,5 @@ Remaining work:
 - Getting flash working via SPI, and periodically dumping measurements there.
 - Design protocol to operate over the "transparent UART" in BLE module.
 - Cleaning up unused cruft from the original demo app.
+
+- ![project image](project.jpg)
